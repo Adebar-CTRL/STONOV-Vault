@@ -4,6 +4,4 @@ def runloop(amount):
         store = store + i
         print(i)
     print(store)
-runloop(int(input("enter number")))
-
-#shithead
+runloop(int(input("enter number"))) 
