@@ -5,3 +5,5 @@ def runloop(amount):
         print(i)
     print(store)
 runloop(int(input("enter number")))
+
+#shithead
